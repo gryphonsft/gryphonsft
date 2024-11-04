@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gryphonsft/gryphonsft/output/snake.svg" alt="Snake animation" />
+
 
 ###
