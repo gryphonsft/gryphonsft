@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Bozdağ</h1>
-<img  alt="Coding" width="250" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
+<img align="end" alt="Coding" width="250" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 <h3 align="center">A Back-End Developer</h3>
 
 - 🌱 I’m currently learning **C#, ASP.NET,**
