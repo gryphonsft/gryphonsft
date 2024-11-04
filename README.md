@@ -1,4 +1,4 @@
-https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 <h1 align="center">Hi 👋, I'm Abdullah Bozdağ</h1>
 <h3 align="center">A Back-End Developer</h3>
 
