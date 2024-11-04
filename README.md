@@ -1,6 +1,3 @@
-<br><br>
-
-
 <h1 align="center">Hi 👋, I'm Abdullah Bozdağ</h1>
 
 <h3 align="left">A Back-End Developer</h3>
