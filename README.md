@@ -3,7 +3,7 @@
 <h3 align="left">A Back-End Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 
-- 🌱 I’m currently learning **C#, ASP.NET,**
+- 🌱 I’m currently learning **C#, ASP.NET,HTML,CSS,PHP,JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gryphonsft?tab=repositories](https://github.com/gryphonsft?tab=repositories)
 
